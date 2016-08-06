@@ -21,6 +21,7 @@ A collection of blender and blender game engine resources
 ##Addons
 *Some usefull addons for modeling, rendering and game making*
 - [BGECore] (https://github.com/elmeunick9/BGECore) - Framework for Blender Game Engine ([BA Link] (https://blenderartists.org/forum/showthread.php?383809-BGECore-Framework))
+- [Compz] (https://github.com/DCubix/Compz) - Graphical user interface module for the Blender Game Engine based on BGUI and KXGUI
 - [Animation nodes (AN)] (http://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes) - A node based visual scripting system designed for motion graphics in Blender
 - [BGE Logic nodes] (http://blenderartists.org/forum/showthread.php?388143-WIP-Blender-Plugin-BGE-Logic-nodes-Alpha) - BGE Logic Nodes (WIP) addon
 - [Blend4Web] (https://www.blend4web.com) - An open source framework for creating and displaying interactive 3D computer graphics and games in web browsers
@@ -81,7 +82,7 @@ A collection of blender and blender game engine resources
 - [UPBGE Documentation] (https://doc.upbge.fr/) - UPBGE documentation and release notes
 - [Blender Wiki] (https://wiki.blender.org/) - Blender Wiki
 - [TutorialsForBlender3d] (http://www.tutorialsforblender3d.com/) - Tuttorials for blender game engine
-- [BLEND SWAP] (http://www.blendswap.com) - A COMMUNITY OF PASSIONATE BLENDER ARTISTS WHO SHARE THEIR WORK UNDER CREATIVE COMMONS LICENSES
+- [BLEND SWAP] (http://www.blendswap.com) - A community of passionate blender srtists who share their work under creative commons licenses
 - [OpenGameArt] (http://opengameart.org/) - Assets for game making
 - [Blender Artists resources] (https://blenderartists.org/forum/forumdisplay.php?36-Game-Engine-Resources)
 - [Prof. Monster's resources] (http://blenderartists.org/forum/showthread.php?203102-Monster-s-resources)

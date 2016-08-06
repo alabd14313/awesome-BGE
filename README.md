@@ -37,7 +37,7 @@ A collection of blender and blender game engine resources
 - [BGE-MC] (https://cgcookiemarkets.com/all-prod...creator-bge-mc) - Blender Game Engine Material Creator
 - [Asset Sketcher] (https://cgcookiemarkets.com/all-prod...-blender-addon) - An addon addon that lets you paint objects directly into your scene.
 - [Area lamps] (https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
-- Improved sapling tree generator (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
+- [Improved sapling tree generator] (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
 - [COA tools] (https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.
 - [Multi Object UV Editing] (https://github.com/ndee85/Multi-Object-UV-Editing) - This addon enables a quick way to create one UV Layout for multiple objects.
 - [Driver Constraint Addon] (https://github.com/ndee85/Driver-Constraint-Addon) - This addon makes constraining shapekey driver to bones super easy. Its all in one simple operator.

@@ -33,7 +33,7 @@ A collection of blender and blender game engine resources
 - Improved sapling tree generator (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
 - [COA tools] (https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.
 - [Multi Object UV Editing] (https://github.com/ndee85/Multi-Object-UV-Editing) - This addon enables a quick way to create one UV Layout for multiple objects.
-- (Driver Constraint Addon) [https://github.com/ndee85/Driver-Constraint-Addon] - This addon makes constraining shapekey driver to bones super easy. Its all in one simple operator.
+- [Driver Constraint Addon] (https://github.com/ndee85/Driver-Constraint-Addon) - This addon makes constraining shapekey driver to bones super easy. Its all in one simple operator.
 - [Blender addons list] (http://blenderaddonlist.blogspot.com/) - Many blender addons
 - [Blender Add-ons Catalog] (https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts) - Some blender official addons
 - [The bright future] (https://blenderartists.org/forum/showthread.php?389374-The-bright-future) - The bright future for blender and for creativity
@@ -47,6 +47,7 @@ A collection of blender and blender game engine resources
 
 ##Shaders
 *GLSL shaders for BGE*
+*//Todo*
 
 
 ##BGE bugs

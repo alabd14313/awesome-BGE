@@ -91,6 +91,7 @@ A collection of blender and blender game engine resources
 
 ##Blender development
 *Some links for blender development*
+- [Blender development] (https://developer.blender.org/) - Blender commits and bugs
 - [Development fund] (https://www.blender.org/foundation/development-fund/)
 - [Blender developer blog] (https://code.blender.org/) - This blog is for developers of Blender who are working on projects related to the Blender releases on blender.org
 - [Blender dev news] (https://www.blender.org/development/) - Some dev news about blender

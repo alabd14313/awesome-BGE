@@ -25,8 +25,21 @@ A collection of blender and blender game engine resources
 
 
 ##Virtual Reality
-*Branches and addons for VR*
+*Branches and addons for VR, openHMD, OSVR, VRPN*
 - [BlenderVR] (https://blendervr.limsi.fr/doku.php) - Blender add-on for Virtual Reality
-- [] ()
+- [Virtual Reality Viewport] (https://github.com/dfelinto/virtual_reality_viewport) - Addon to bring virtual reality devices to the Blender viewport
 
 
+##Shaders
+*GLSL shaders for BGE*
+- [easyEmit] (http://blenderartists.org/forum/show...te*-13-06-2013) - A particle system
+- [BlenderGEResourceKit] (https://github.com/mikepan/BlenderGEResourceKit) - A collection of ready-to-use components for the Blender Game Engine
+- [Easy Game] (https://cgcookiemarkets.com/all-products/easy-game/) - a collection of tools that allow you to work faster and more efficiently with the Blender Game Engine
+- [BGE-MC] (https://cgcookiemarkets.com/all-prod...creator-bge-mc) - 
+- [Asset Sketcher] (https://cgcookiemarkets.com/all-prod...-blender-addon) - An addon addon that lets you paint objects directly into your scene.
+- [Area lamps] (https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
+
+
+##BGE bugs
+*Current BGE bugs and bugs that solved in UPBGE*
+//Todo

@@ -9,6 +9,9 @@ A collection of blender and blender game engine resources
 - [Builder experimental] (https://builder.blender.org/download/experimental/) - Blender latest experimental builds
 - [GraphicAll.org] (http://www.graphicall.org/) - Various Blender and BGE builds
 - [UPBGE downloads] (https://download.upbge.fr/) - Compiled versions of UPBGE
+- [Dark Blender] (https://blenderartists.org/forum/showthread.php?383624-Dark-Blender-(Official-Thread)-optimized-for-sculpting-and-game-asset-creation) - Optimized for sculpting and game asset creation
+- [GLSL PBR Shader for viewport] (http://www.clement-foucault.com/#blender_pbr) - PBR viewport ([BA link] (https://blenderartists.org/forum/showthread.php?343278-GLSL-PBR-Shader-for-viewport))
+- [armory] (https://github.com/armory3d/armory) - Real-Time 3D Engine for Blender & Cycles (in development)
 
 
 ##Science

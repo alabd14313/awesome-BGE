@@ -1,4 +1,4 @@
-#In the name of ALLAH
+#In the name of *ALLAH*
 #Awesome BGE
 A collection of blender and blender game engine resources
 

@@ -109,7 +109,7 @@ A collection of blender and blender game engine resources
 
 ##Video tutorials
 *Artists who have video tutorials*
--[SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
+- [SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
 - [Jacob Merrill] (https://www.youtube.com/user/ThouhtWave)
 - [Adrians Netlis] (https://www.youtube.com/channel/UCGZ0NXhdCgsfv6UllRrQsFQ)
 - [BornCG] (https://www.youtube.com/user/cgboorman)

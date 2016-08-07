@@ -109,7 +109,19 @@ A collection of blender and blender game engine resources
 
 ##Video tutorials
 *Artists who have video tutorials*
--[] () - 
+-[SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
+- [Jacob Merrill] (https://www.youtube.com/user/ThouhtWave)
+- [Adrians Netlis] (https://www.youtube.com/channel/UCGZ0NXhdCgsfv6UllRrQsFQ)
+- [BornCG] (https://www.youtube.com/user/cgboorman)
+- [John Hamilton] (https://www.youtube.com/user/JohnHamiltonNZ) - John also have a good tuts: [http://www.blenderreal.com/] (http://www.blenderreal.com/)
+- [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
+- [stym] (https://www.youtube.com/user/CGAstym)
+- [https://www.youtube.com/channel/UC8fEnP9462piEg4xa3xNHOA] (Arsenal RSL)
+- [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
+- [CG Sky] (https://www.youtube.com/user/blenderrendersky)
+- [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)
+- [martins upitis] (https://www.youtube.com/user/martinsupitis)
+- [Lars Pfeffer] (https://www.youtube.com/user/uziulf)
 
 
 ##Blender development

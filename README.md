@@ -78,10 +78,10 @@ A collection of blender and blender game engine resources
 - [Vector Motion Blur (Update: Now works on AMD GPU!) ] (http://blenderartists.org/forum/showthread.php?315819-Vector-Motion-Blur-(Update-Now-works-on-AMD-GPU)) - ucupumar
 - [GLSL Grass Geometry Shader [update v. 2.2 - AMD now supported!] ] (http://blenderartists.org/forum/showthread.php?367081-GLSL-Grass-Geometry-Shader-update-v-2-2-AMD-now-supported) - Yarbrough08
 - [Multiple Water Shaders in BGE] (https://blenderartists.org/forum/showthread.php?378697-Multiple-Water-Shaders-in-BGE) - Collected by adriansnetlis
-- [Some shaders from various artists] (http://blenderartists.org/forum/showthread.php?372462-Interesting-GLSL-filter-2D-shaders) - youle
 - [unlimited planar reflections & refraction (update)] (https://blenderartists.org/forum/showthread.php?242940-unlimited-planar-reflections-amp-refraction-(update)) - martinsh
 - [GLSL Python, Realtime Reflections and UV Maps] (http://blenderartists.org/forum/showthread.php?313961-GLSL-Python-Realtime-Reflections-and-UV-Maps&highlight=water+reflection+glsl) - martin.hedin
 - [Play with Martinsh shaders] (http://blenderartists.org/forum/showthread.php?355767-Play-with-Martinsh-shaders) - Collected by youle
+- [Some shaders from various artists] (http://blenderartists.org/forum/showthread.php?372462-Interesting-GLSL-filter-2D-shaders) - youle
 
 
 ##Community

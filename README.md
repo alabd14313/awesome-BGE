@@ -75,7 +75,7 @@ A collection of blender and blender game engine resources
 - [Geometry Shader using OpenGL Wrapper (bgl) [fix for Intel]] (http://blenderartists.org/forum/showthread.php?362582-Geometry-Shader-using-OpenGL-Wrapper-(bgl)-fix-for-Intel) - HG1
 - [Procedural texture example] (http://blenderartists.org/forum/showthread.php?373392-Procedural-texture-example) - HG1
 - [OpenGL Shading Language (GLSL) Tutorials] (http://blenderartists.org/forum/showthread.php?372393-OpenGL-Shading-Language-(GLSL)-Tutorials) - Yarbrough08
-- [Vector Motion Blur (Update: Now works on AMD GPU!) ] (http://blenderartists.org/forum/showthread.php?315819-Vector-Motion-Blur-(Update-Now-works-on-AMD-GPU) - ucupumar
+- [Vector Motion Blur (Update: Now works on AMD GPU!) ] (http://blenderartists.org/forum/showthread.php?315819-Vector-Motion-Blur-(Update-Now-works-on-AMD-GPU)) - ucupumar
 - [GLSL Grass Geometry Shader [update v. 2.2 - AMD now supported!] ] (http://blenderartists.org/forum/showthread.php?367081-GLSL-Grass-Geometry-Shader-update-v-2-2-AMD-now-supported) - Yarbrough08
 - [] () - 
 

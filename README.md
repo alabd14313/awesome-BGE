@@ -77,7 +77,11 @@ A collection of blender and blender game engine resources
 - [OpenGL Shading Language (GLSL) Tutorials] (http://blenderartists.org/forum/showthread.php?372393-OpenGL-Shading-Language-(GLSL)-Tutorials) - Yarbrough08
 - [Vector Motion Blur (Update: Now works on AMD GPU!) ] (http://blenderartists.org/forum/showthread.php?315819-Vector-Motion-Blur-(Update-Now-works-on-AMD-GPU)) - ucupumar
 - [GLSL Grass Geometry Shader [update v. 2.2 - AMD now supported!] ] (http://blenderartists.org/forum/showthread.php?367081-GLSL-Grass-Geometry-Shader-update-v-2-2-AMD-now-supported) - Yarbrough08
-- [] () - 
+- [Multiple Water Shaders in BGE] (https://blenderartists.org/forum/showthread.php?378697-Multiple-Water-Shaders-in-BGE) - Collected by adriansnetlis
+- [Some shaders from various artists] (http://blenderartists.org/forum/showthread.php?372462-Interesting-GLSL-filter-2D-shaders) - youle
+- [unlimited planar reflections & refraction (update)] (https://blenderartists.org/forum/showthread.php?242940-unlimited-planar-reflections-amp-refraction-(update)) - martinsh
+- [GLSL Python, Realtime Reflections and UV Maps] (http://blenderartists.org/forum/showthread.php?313961-GLSL-Python-Realtime-Reflections-and-UV-Maps&highlight=water+reflection+glsl) - martin.hedin
+- [Play with Martinsh shaders] (http://blenderartists.org/forum/showthread.php?355767-Play-with-Martinsh-shaders) - Collected by youle
 
 
 ##Community
@@ -101,6 +105,11 @@ A collection of blender and blender game engine resources
 - [Blender Artists resources] (https://blenderartists.org/forum/forumdisplay.php?36-Game-Engine-Resources)
 - [Prof. Monster's resources] (http://blenderartists.org/forum/showthread.php?203102-Monster-s-resources)
 - [Good-To-Knows] (http://blenderartists.org/forum/showthread.php?240729-Prof-Monster-s-Hints-Guides-and-Good-To-Knows) - Prof. Monster's Hints, Guides and Good-To-Knows
+
+
+##Video tutorials
+*Artists who have video tutorials*
+-[] () - 
 
 
 ##Blender development

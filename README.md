@@ -122,6 +122,8 @@ A collection of blender and blender game engine resources
 - [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)
 - [martins upitis] (https://www.youtube.com/user/martinsupitis)
 - [Lars Pfeffer] (https://www.youtube.com/user/uziulf)
+- [wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
+- [THERSX] (https://www.youtube.com/channel/UCMD79otTZwmSdNQoBnrolXA)
 
 
 ##Blender development

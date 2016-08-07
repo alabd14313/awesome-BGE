@@ -116,7 +116,7 @@ A collection of blender and blender game engine resources
 - [John Hamilton] (https://www.youtube.com/user/JohnHamiltonNZ) - John also have a good tuts: [http://www.blenderreal.com/] (http://www.blenderreal.com/)
 - [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
 - [stym] (https://www.youtube.com/user/CGAstym)
-- [https://www.youtube.com/channel/UC8fEnP9462piEg4xa3xNHOA] (Arsenal RSL)
+- [Arsenal RSL] (https://www.youtube.com/channel/UC8fEnP9462piEg4xa3xNHOA)
 - [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
 - [CG Sky] (https://www.youtube.com/user/blenderrendersky)
 - [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)

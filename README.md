@@ -66,8 +66,18 @@ A collection of blender and blender game engine resources
 
 ##Shaders
 *GLSL shaders for BGE*
-- [BGE Post-Processing Addon] (http://blenderartists.org/forum/showthread.php?398032-BGE-Post-Processing-Addon)
-*//Todo*
+- [BGE Post-Processing Addon] (http://blenderartists.org/forum/showthread.php?398032-BGE-Post-Processing-Addon) - Thatimst3r
+- [Compute Shader using OpenGL Wrapper (bgl) and Python OpenGL Wrapper] (http://blenderartists.org/forum/showthread.php?373056-Compute-Shader-using-OpenGL-Wrapper-(bgl)-and-Python-OpenGL-Wrapper) - HG1
+- [Drawing into the viewport with modern OpenGL] (http://blenderartists.org/forum/showthread.php?387609-Drawing-into-the-viewport-with-modern-OpenGL) - HG1
+- [Tessellation shader example using PyOpenGL] (http://blenderartists.org/forum/showthread.php?387613-Tessellation-shader-example-using-PyOpenGL) - 
+- [Bind custom uniform values to a 2D filter (using bgl wrapper) ] (http://blenderartists.org/forum/showthread.php?374488-Bind-custom-uniform-values-to-a-2D-filter-(using-bgl-wrapper)) - HG1
+- [Real time cubemap reflection (environment map)] (http://blenderartists.org/forum/showthread.php?362580-Real-time-cubemap-reflection-(environment-map)) - HG1
+- [Geometry Shader using OpenGL Wrapper (bgl) [fix for Intel]] (http://blenderartists.org/forum/showthread.php?362582-Geometry-Shader-using-OpenGL-Wrapper-(bgl)-fix-for-Intel) - HG1
+- [Procedural texture example] (http://blenderartists.org/forum/showthread.php?373392-Procedural-texture-example) - HG1
+- [OpenGL Shading Language (GLSL) Tutorials] (http://blenderartists.org/forum/showthread.php?372393-OpenGL-Shading-Language-(GLSL)-Tutorials) - Yarbrough08
+- [Vector Motion Blur (Update: Now works on AMD GPU!) ] (http://blenderartists.org/forum/showthread.php?315819-Vector-Motion-Blur-(Update-Now-works-on-AMD-GPU) - ucupumar
+- [GLSL Grass Geometry Shader [update v. 2.2 - AMD now supported!] ] (http://blenderartists.org/forum/showthread.php?367081-GLSL-Grass-Geometry-Shader-update-v-2-2-AMD-now-supported) - Yarbrough08
+- [] () - 
 
 
 ##Community

@@ -69,7 +69,7 @@ A collection of blender and blender game engine resources
 - [BGE Post-Processing Addon] (http://blenderartists.org/forum/showthread.php?398032-BGE-Post-Processing-Addon) - Thatimst3r
 - [Compute Shader using OpenGL Wrapper (bgl) and Python OpenGL Wrapper] (http://blenderartists.org/forum/showthread.php?373056-Compute-Shader-using-OpenGL-Wrapper-(bgl)-and-Python-OpenGL-Wrapper) - HG1
 - [Drawing into the viewport with modern OpenGL] (http://blenderartists.org/forum/showthread.php?387609-Drawing-into-the-viewport-with-modern-OpenGL) - HG1
-- [Tessellation shader example using PyOpenGL] (http://blenderartists.org/forum/showthread.php?387613-Tessellation-shader-example-using-PyOpenGL) - 
+- [Tessellation shader example using PyOpenGL] (http://blenderartists.org/forum/showthread.php?387613-Tessellation-shader-example-using-PyOpenGL) - HG1
 - [Bind custom uniform values to a 2D filter (using bgl wrapper) ] (http://blenderartists.org/forum/showthread.php?374488-Bind-custom-uniform-values-to-a-2D-filter-(using-bgl-wrapper)) - HG1
 - [Real time cubemap reflection (environment map)] (http://blenderartists.org/forum/showthread.php?362580-Real-time-cubemap-reflection-(environment-map)) - HG1
 - [Geometry Shader using OpenGL Wrapper (bgl) [fix for Intel]] (http://blenderartists.org/forum/showthread.php?362582-Geometry-Shader-using-OpenGL-Wrapper-(bgl)-fix-for-Intel) - HG1

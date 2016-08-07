@@ -272,4 +272,4 @@ A collection of blender and blender game engine resources
 - [T48751] (https://developer.blender.org/T48751) - GE Sound works in Blender but not in runtimes (similar to T27558)
 - [T48774] (https://developer.blender.org/T48774) - Tangent Shading material option doesn't work on BGE.
 - [T48989] (https://developer.blender.org/T48989) - Custom shaders don't work on group instances
-- Not reported bugs that solved in UPBGE *Todo*
+- Not reported bugs that solved in UPBGE *//Todo*

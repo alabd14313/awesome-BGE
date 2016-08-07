@@ -209,7 +209,7 @@ A collection of blender and blender game engine resources
 - [T41209] (https://developer.blender.org/T41209) - Run Armature actuator not working with DupliGroup object.
 - [T41520] (https://developer.blender.org/T41520) - BGE-optimized vertex deform method causes vertices to go smooth
 - [T41529] (https://developer.blender.org/T41529) - After pree P test game, pose library will turn red & lose if save .blend file.
-- [T41677] (https://developer.blender.org/T41677) - Skin modifier dont work with 0 face objects
+- [T41677] (https://developer.blender.org/T41677) - Skin modifier dont work with 0 face objects (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.fr/releases.php?id=0.0.1)_**)
 - [T41825] (https://developer.blender.org/T41825) - Effects in bge
 - [T41829] (https://developer.blender.org/T41829) - Normal Map in Material Node going wrong
 - [T41940] (https://developer.blender.org/T41940) - VideoTexture ImageRender does not consider 2D filter actives for the scene

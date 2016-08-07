@@ -202,7 +202,7 @@ A collection of blender and blender game engine resources
 - [T40427] (https://developer.blender.org/T40427) - Compound mesh not updated with Outliner children
 - [T40475] (https://developer.blender.org/T40475) - BGE: Children objects not freed after python acces.
 - [T40790] (https://developer.blender.org/T40790) - 2D Filters and anti-aliasing broke quad buffer stereo
-- [T40955] (https://developer.blender.org/T40955) - LibNew doesn't clone Physics Mesh (*Solved in UPBGE [v0.0.6]) (http://doc.upbge.fr/releases.php?id=0.0.6)*
+- [T40955] (https://developer.blender.org/T40955) - LibNew doesn't clone Physics Mesh (*Solved in UPBGE [v0.0.6] (http://doc.upbge.fr/releases.php?id=0.0.6)*)
 - [T41181] (https://developer.blender.org/T41181) - Redesigning Input Controllers/Sensors
 - [T41182] (https://developer.blender.org/T41182) - SceneGraph Review
 - [T41184] (https://developer.blender.org/T41184) - SceneGraph and Transforms

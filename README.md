@@ -82,6 +82,9 @@ A collection of blender and blender game engine resources
 - [GLSL Python, Realtime Reflections and UV Maps] (http://blenderartists.org/forum/showthread.php?313961-GLSL-Python-Realtime-Reflections-and-UV-Maps&highlight=water+reflection+glsl) - martin.hedin
 - [Play with Martinsh shaders] (http://blenderartists.org/forum/showthread.php?355767-Play-with-Martinsh-shaders) - Collected by youle
 - [Some shaders from various artists] (http://blenderartists.org/forum/showthread.php?372462-Interesting-GLSL-filter-2D-shaders) - youle
+- [Normal map based Screen Space Distortion FIlter (SSDF)] (http://blenderartists.org/forum/showthread.php?399223-Normal-map-based-Screen-Space-Distortion-FIlter-%28SSDF%29) - kitebizelt
+- [Per Object Motion Blur v1.1] (http://blenderartists.org/forum/showthread.php?401481) - kitebizelt
+- [Post Processing Motion Blur Filter v1.2] (http://blenderartists.org/forum/showthread.php?401673) - kitebizelt
 
 
 ##Community
@@ -120,6 +123,7 @@ A collection of blender and blender game engine resources
 - [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)
 - [SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
 - [stym] (https://www.youtube.com/user/CGAstym)
+- [Solarlune] (https://www.youtube.com/user/SolarLuneTube)
 - [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
 - [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
 - [THERSX] (https://www.youtube.com/channel/UCMD79otTZwmSdNQoBnrolXA)

@@ -12,6 +12,10 @@ A collection of blender and blender game engine resources
 - [Dark Blender] (https://blenderartists.org/forum/showthread.php?383624-Dark-Blender-(Official-Thread)-optimized-for-sculpting-and-game-asset-creation) - Optimized for sculpting and game asset creation
 - [GLSL PBR Shader for viewport] (http://www.clement-foucault.com/#blender_pbr) - PBR viewport ([BA link] (https://blenderartists.org/forum/showthread.php?343278-GLSL-PBR-Shader-for-viewport))
 - [armory] (https://github.com/armory3d/armory) - Real-Time 3D Engine for Blender & Cycles (in development)
+- [Lux Render] (www.luxrender.net) - A physically based and unbiased rendering engine (APL license)
+- [YafaRay] (http://www.yafaray.org/) - A free open-source montecarlo raytracing engine released under the LGPL 2.1 license
+- [YafaRay-E] (http://www.graphicall.org/1171) - YafaRay-E (Experimental)
+- [TheBounty Renderer] (https://www.thebountyrenderer.org/) - A free montecarlo raytracing engine (a fork of YafaRay)
 
 
 ##Science
@@ -25,6 +29,7 @@ A collection of blender and blender game engine resources
 *Some usefull addons for modeling, rendering and game making*
 - [BGECore] (https://github.com/elmeunick9/BGECore) - Framework for Blender Game Engine ([BA Link] (https://blenderartists.org/forum/showthread.php?383809-BGECore-Framework))
 - [Compz] (https://github.com/DCubix/Compz) - Graphical user interface module for the Blender Game Engine based on BGUI and KXGUI
+- [BRIK game engine ragdolls kit] (https://blenderartists.org/forum/showthread.php?401694-BRIK-game-engine-ragdolls-kit) - Meta-Androcto
 - [Animation nodes (AN)] (http://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes) - A node based visual scripting system designed for motion graphics in Blender
 - [BGE Logic nodes] (http://blenderartists.org/forum/showthread.php?388143-WIP-Blender-Plugin-BGE-Logic-nodes-Alpha) - BGE Logic Nodes (WIP) addon
 - [Blend4Web] (https://www.blend4web.com) - An open source framework for creating and displaying interactive 3D computer graphics and games in web browsers
@@ -85,6 +90,18 @@ A collection of blender and blender game engine resources
 - [Normal map based Screen Space Distortion FIlter (SSDF)] (http://blenderartists.org/forum/showthread.php?399223-Normal-map-based-Screen-Space-Distortion-FIlter-%28SSDF%29) - kitebizelt
 - [Per Object Motion Blur v1.1] (http://blenderartists.org/forum/showthread.php?401481) - kitebizelt
 - [Post Processing Motion Blur Filter v1.2] (http://blenderartists.org/forum/showthread.php?401673) - kitebizelt
+- [Fast Day/Night cycle demo ] (https://blenderartists.org/forum/showthread.php?183691-fast-Day-Night-cycle-demo) - martinsh and sick
+- [Realtime Planar Reflections with Blur (Nodes)] (https://blenderartists.org/forum/showthread.php?400901-Realtime-Planar-Reflections-with-Blur-(Nodes)) - CG Sky
+- [Physically Based Shading | Nodes] (https://blenderartists.org/forum/showthread.php?401172-Physically-Based-Shading-Nodes) - adriansnetlis
+- [Terrrain LOD [UPDATE: dynamic shadows !!] huge open world for all (glsl shader) ] (https://blenderartists.org/forum/showthread.php?256768-Terrrain-LOD-UPDATE-dynamic-shadows-!!-huge-open-world-for-all-(glsl-shader)) - benj
+- [Basic Physically-Based Shader] (https://blenderartists.org/forum/showthread.php?391031-Basic-Physically-Based-Shader&highlight=Physically+Based+Shading) - HG1
+- [PBR Shader] (http://blenderartists.org/forum/showthread.php?376788-PBR-Shader) - HG1
+- [Physically based shading using nodes] (https://blenderartists.org/forum/showthread.php?378931-Physically-based-shading-using-nodes&highlight=Physically+Based+Shading) - Beard_of_Zeus
+- [IBL node setup in BGE/Viewport ] (http://blenderartists.org/forum/showthread.php?328835-IBL-node-setup-in-BGE-Viewport&p=2666811&viewfull=1#post2666811) - Binary
+- [PBR Specular shader in blenders viewport] (http://blenderartists.org/forum/showthread.php?393277-PBR-Specular-shader-in-blenders-viewport) - pachupp
+- [Equirectangular Reflection/Refraction in viewport and game engine with GLSL node] (http://blenderartists.org/forum/showthread.php?325900-Equirectangular-Reflection-Refraction-in-viewport-and-game-engine-with-GLSL-node) - Binary
+- [windwaker light shader] (https://blenderartists.org/forum/showthread.php?402037-windwaker-light-shader) - cuervo1003
+- [Cell Shading Addon for the BGE] (http://www.blendswap.com/blends/view/83481) - RedForest
 
 
 ##Community

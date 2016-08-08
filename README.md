@@ -39,7 +39,7 @@ A collection of blender and blender game engine resources
 - [BlenderGEResourceKit] (https://github.com/mikepan/BlenderGEResourceKit) - A collection of ready-to-use components for the Blender Game Engine
 - [Easy Game] (https://cgcookiemarkets.com/all-products/easy-game/) - a collection of tools that allow you to work faster and more efficiently with the Blender Game Engine
 - [BGE-MC] (https://cgcookiemarkets.com/all-prod...creator-bge-mc) - Blender Game Engine Material Creator
-- [Asset Sketcher] (https://cgcookiemarkets.com/all-prod...-blender-addon) - An addon addon that lets you paint objects directly into your scene.
+- [Asset Sketcher] (https://cgcookiemarkets.com/all-prod...-blender-addon) - An addon that lets you paint objects directly into your scene.
 - [Area lamps] (https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
 - [Improved sapling tree generator] (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
 - [COA tools] (https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.
@@ -109,21 +109,21 @@ A collection of blender and blender game engine resources
 
 ##Video tutorials
 *Artists who have video tutorials*
-- [SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
-- [Jacob Merrill] (https://www.youtube.com/user/ThouhtWave)
 - [Adrians Netlis] (https://www.youtube.com/channel/UCGZ0NXhdCgsfv6UllRrQsFQ)
-- [BornCG] (https://www.youtube.com/user/cgboorman)
-- [John Hamilton] (https://www.youtube.com/user/JohnHamiltonNZ) - John also have a good tuts: [http://www.blenderreal.com/] (http://www.blenderreal.com/)
-- [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
-- [stym] (https://www.youtube.com/user/CGAstym)
 - [Arsenal RSL] (https://www.youtube.com/channel/UC8fEnP9462piEg4xa3xNHOA)
-- [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
+- [BornCG] (https://www.youtube.com/user/cgboorman)
 - [CG Sky] (https://www.youtube.com/user/blenderrendersky)
-- [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)
-- [martins upitis] (https://www.youtube.com/user/martinsupitis)
+- [Jacob Merrill] (https://www.youtube.com/user/ThouhtWave)
+- [John Hamilton] (https://www.youtube.com/user/JohnHamiltonNZ) - John also have a good tuts: [http://www.blenderreal.com/] (http://www.blenderreal.com/)
 - [Lars Pfeffer] (https://www.youtube.com/user/uziulf)
-- [wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
+- [martins upitis] (https://www.youtube.com/user/martinsupitis)
+- [Red Frost Games] (https://www.youtube.com/channel/UCV2JFmTKtHPfsKj8cDipNpQ)
+- [SixDayStudio] (https://www.youtube.com/user/SixDayStudio)
+- [stym] (https://www.youtube.com/user/CGAstym)
+- [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
+- [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
 - [THERSX] (https://www.youtube.com/channel/UCMD79otTZwmSdNQoBnrolXA)
+- [wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
 
 
 ##Blender development

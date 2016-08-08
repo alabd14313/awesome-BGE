@@ -103,7 +103,7 @@ A collection of blender and blender game engine resources
 - [Equirectangular Reflection/Refraction in viewport and game engine with GLSL node] (http://blenderartists.org/forum/showthread.php?325900-Equirectangular-Reflection-Refraction-in-viewport-and-game-engine-with-GLSL-node) - Binary
 - [windwaker light shader] (https://blenderartists.org/forum/showthread.php?402037-windwaker-light-shader) - cuervo1003
 - [Cell Shading Addon for the BGE] (http://www.blendswap.com/blends/view/83481) - RedForest
-- [Daylight system, without shaders] (http://blenderartists.org/forum/showthread.php?316803-Daylight-system-without-shaders-(blend-included) - martin.hedin
+- [Daylight system, without shaders] (http://blenderartists.org/forum/showthread.php?316803-Daylight-system-without-shaders-(blend-included)) - martin.hedin
 - [GLSL Python. Realtime Reflections and UV Maps] (http://blenderartists.org/forum/showthread.php?313961-GLSL-Python-How-do-I-tell-the-shader-to-use-UV-maps) - martin.hedin
 - [Night vision shader rifle scope version ] (https://blenderartists.org/forum/showthread.php?376834-Night-vision-shader-rifle-scope-version) - HG1
 - [HDR + many simple GLSL 2D Filters v2.0] (http://blenderartists.org/forum/showthread.php?156482-HDR-many-simple-GLSL-2D-Filters-v2-0&highlight=2s%20filters) - martinsh

@@ -150,7 +150,7 @@ A collection of blender and blender game engine resources
 - [SuperGloop] (https://www.youtube.com/user/qazwsx2541)
 - [ThaTimst3r] (https://www.youtube.com/user/ThaTimst3r)
 - [THERSX] (https://www.youtube.com/channel/UCMD79otTZwmSdNQoBnrolXA)
-- [wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
+- [Wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
 
 
 ##Blender development

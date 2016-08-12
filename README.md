@@ -109,6 +109,7 @@ A collection of blender and blender game engine resources
 - [Night vision shader rifle scope version ] (https://blenderartists.org/forum/showthread.php?376834-Night-vision-shader-rifle-scope-version) - HG1
 - [HDR + many simple GLSL 2D Filters v2.0] (http://blenderartists.org/forum/showthread.php?156482-HDR-many-simple-GLSL-2D-Filters-v2-0&highlight=2s%20filters) - martinsh
 - [Car Paint in BGE using HG1's cubemap node] (https://blenderartists.org/forum/showthread.php?375313-Car-Paint-in-BGE-using-HG1-s-cubemap-node&highlight=car+paint+shader) - adriansnetlis
+- [Some other shaders] (https://blenderartists.org/forum/showthread.php?395974-Sdfgeoff-s-node-shaders-and-other-experiments) - Sdfgeoff's node shaders and other experiments
 
 
 ##Community

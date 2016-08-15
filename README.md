@@ -135,6 +135,12 @@ A collection of blender and blender game engine resources
 - [Blender Artists resources] (https://blenderartists.org/forum/forumdisplay.php?36-Game-Engine-Resources)
 - [Prof. Monster's resources] (http://blenderartists.org/forum/showthread.php?203102-Monster-s-resources)
 - [Good-To-Knows] (http://blenderartists.org/forum/showthread.php?240729-Prof-Monster-s-Hints-Guides-and-Good-To-Knows) - Prof. Monster's Hints, Guides and Good-To-Knows
+- [How to correctly analyse and profile your game] (http://blenderartists.org/forum/showthread.php?291933-How-to-correctly-analyse-and-profile-your-game) - How to correctly analyse and profile your game
+- [Important threads and FAQs] (https://blenderartists.org/forum/showthread.php?241891-Important-threads-and-FAQs) - Important threads and FAQs
+- [Beginners - where to start] (https://blenderartists.org/forum/showthread.php?196825-Beginners-where-to-start) - Where to start
+- [The GPL Answer Thread] (https://blenderartists.org/forum/showthread.php?259752-The-GPL-Answer-Thread) - The GPL Answer Thread
+- [Useful threads] (https://blenderartists.org/forum/showthread.php?196828-Useful-threads) - Some useful threads in BA forum
+- [Agoose77's resources] (http://blenderartists.org/forum/showthread.php?226477-Agoose77-s-resources&p=1913771#post1913771) - Agoose77's resources
 
 
 ##Video tutorials

@@ -54,6 +54,8 @@ A collection of blender and blender game engine resources
 - [Blender curve draw] (https://gitlab.com/ideasman42/blender-curve-draw-addon/tree/master) - OpenToonz' freehand drawing function ported to blender by Campbell Barton
 - [InAIte] (http://blenderartists.org/forum/showthread.php?382095-WIP-InAIte-Blender-Crowd-Simulation) - Blender Crowd Simulation
 - [PBR Materials Addon] (https://blenderartists.org/forum/showthread.php?402357-PBR-Materials-Addon&highlight=car+paint+shader) - An addon for cycles render (macio)
+- [Bumpy materials plug-in] (http://blenderartists.org/forum/showthread.php?360732-Bumpy-materials-plug-in&highlight=bumpy) -  A plug-in that auto-generate simple "bumpy-shiny" materials from a diffuse texture.
+- [Lightmapper] (http://blenderartists.org/forum/showthread.php?370310-Lightmapper) - A plugin that generate static lightmaps
 - [Blender addons list] (http://blenderaddonlist.blogspot.com/) - Many blender addons (like Mifth tools, hdr2rgbm, ...)
 - [Blender Add-ons Catalog] (https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts) - Some blender official addons
 

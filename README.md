@@ -31,6 +31,7 @@ A collection of blender and blender game engine resources
 - [BGECore] (https://github.com/elmeunick9/BGECore) - Framework for Blender Game Engine ([BA Link] (https://blenderartists.org/forum/showthread.php?383809-BGECore-Framework))
 - [Compz] (https://github.com/DCubix/Compz) - Graphical user interface module for the Blender Game Engine based on BGUI and KXGUI
 - [BRIK game engine ragdolls kit] (https://blenderartists.org/forum/showthread.php?401694-BRIK-game-engine-ragdolls-kit) - Meta-Androcto
+- [MakeHuman] (www.makehuman.org) - Free and Open source tool for making 3d characters
 - [Animation nodes (AN)] (http://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes) - A node based visual scripting system designed for motion graphics in Blender
 - [BGE Logic nodes] (http://blenderartists.org/forum/showthread.php?388143-WIP-Blender-Plugin-BGE-Logic-nodes-Alpha) - BGE Logic Nodes (WIP) addon
 - [Blend4Web] (https://www.blend4web.com) - An open source framework for creating and displaying interactive 3D computer graphics and games in web browsers
@@ -44,8 +45,8 @@ A collection of blender and blender game engine resources
 - [easyEmit] (https://blenderartists.org/forum/showthread.php?241656-easyEmit-*Update*-13-06-2013) - A particle system
 - [BlenderGEResourceKit] (https://github.com/mikepan/BlenderGEResourceKit) - A collection of ready-to-use components for the Blender Game Engine
 - [Easy Game] (https://cgcookiemarkets.com/all-products/easy-game/) - a collection of tools that allow you to work faster and more efficiently with the Blender Game Engine
-- [BGE-MC] (https://cgcookiemarkets.com/all-prod...creator-bge-mc) - Blender Game Engine Material Creator
-- [Asset Sketcher] (https://cgcookiemarkets.com/all-prod...-blender-addon) - An addon that lets you paint objects directly into your scene.
+- [BGE-MC] (https://cgcookiemarkets.com/all-products/blender-game-engine-material-creator-bge-mc/) - Blender Game Engine Material Creator
+- [Asset Sketcher] (https://cgcookiemarkets.com/all-products/asset-sketcher-blender-addon/) - An addon that lets you paint objects directly into your scene.
 - [Area lamps] (https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
 - [Improved sapling tree generator] (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
 - [COA tools] (https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.

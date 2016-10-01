@@ -72,6 +72,7 @@ A collection of blender and blender game engine resources
 *Branches and addons for VR, openHMD, OSVR, VRPN*
 - [BlenderVR] (https://blendervr.limsi.fr/doku.php) - Blender add-on for Virtual Reality
 - [Virtual Reality Viewport] (https://github.com/dfelinto/virtual_reality_viewport) - Addon to bring virtual reality devices to the Blender viewport
+- [BGE educational program and vr dk2, leap motion integration ] (https://blenderartists.org/forum/showthread.php?323478-Leap-Motion-and-blender-integration) - Making of Leap Motion für Python 3 (http://www.magben.de/?h1=3d&h2=leap_motion_hand)
 
 
 ##Shaders
@@ -170,6 +171,7 @@ A collection of blender and blender game engine resources
 - [Development fund] (https://www.blender.org/foundation/development-fund/)
 - [Blender developer blog] (https://code.blender.org/) - This blog is for developers of Blender who are working on projects related to the Blender releases on blender.org
 - [Blender dev news] (https://www.blender.org/development/) - Some dev news about blender
+- [Google Summer Of Code] (https://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2016/Ideas) - Here are disscustions: [Video1] (https://www.youtube.com/watch?v=3vlyT3UNmFs) - [Video2] (https://www.youtube.com/watch?v=M8Ot3xHBKnA)
 - [18 anticipated Blender development projects of 2015] (https://www.blender.org/press/18-anticipated-blender-development-projects-of-2015/)
 - [Top 22 developers 2015] (https://www.blender.org/development/top-22-developers-2015/)
 - [Gooseberry branch in blender master] (https://gooseberry.blender.org/gooseberry-in-blender-master/)

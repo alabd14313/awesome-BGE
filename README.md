@@ -54,6 +54,7 @@ A collection of blender and blender game engine resources
 - [Driver Constraint Addon] (https://github.com/ndee85/Driver-Constraint-Addon) - This addon makes constraining shapekey driver to bones super easy. Its all in one simple operator.
 - [Blender curve draw] (https://gitlab.com/ideasman42/blender-curve-draw-addon/tree/master) - OpenToonz' freehand drawing function ported to blender by Campbell Barton
 - [InAIte] (http://blenderartists.org/forum/showthread.php?382095-WIP-InAIte-Blender-Crowd-Simulation) - Blender Crowd Simulation
+- [CrowdMaster] (http://jmroper.com/crowdmaster/) - Crowd Simulation for Blender 3D
 - [PBR Materials Addon] (https://blenderartists.org/forum/showthread.php?402357-PBR-Materials-Addon&highlight=car+paint+shader) - An addon for cycles render (macio)
 - [Bumpy materials plug-in] (http://blenderartists.org/forum/showthread.php?360732-Bumpy-materials-plug-in&highlight=bumpy) -  A plug-in that auto-generate simple "bumpy-shiny" materials from a diffuse texture.
 - [Lightmapper] (http://blenderartists.org/forum/showthread.php?370310-Lightmapper) - A plugin that generate static lightmaps

@@ -58,6 +58,8 @@ A collection of blender and blender game engine resources
 - [PBR Materials Addon] (https://blenderartists.org/forum/showthread.php?402357-PBR-Materials-Addon&highlight=car+paint+shader) - An addon for cycles render (macio)
 - [Bumpy materials plug-in] (http://blenderartists.org/forum/showthread.php?360732-Bumpy-materials-plug-in&highlight=bumpy) -  A plug-in that auto-generate simple "bumpy-shiny" materials from a diffuse texture.
 - [Lightmapper] (http://blenderartists.org/forum/showthread.php?370310-Lightmapper) - A plugin that generate static lightmaps
+- [blam] (https://github.com/dfelinto/blam) - A camera and projector calibration toolkit for Blender that also does automatic 3D reconstruction of geometry with rectangular faces.
+- [Render Cube Map] (https://github.com/dfelinto/render_cube_map) - Blender Addon to Render Cube Map
 - [Blender addons list] (http://blenderaddonlist.blogspot.com/) - Many blender addons (like Mifth tools, hdr2rgbm, ...)
 - [Blender Add-ons Catalog] (https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts) - Some blender official addons
 

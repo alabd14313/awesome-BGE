@@ -75,6 +75,7 @@ A collection of blender and blender game engine resources
 *Branches and addons for VR, openHMD, OSVR, VRPN*
 - [BlenderVR] (https://blendervr.limsi.fr/doku.php) - Blender add-on for Virtual Reality
 - [Virtual Reality Viewport] (https://github.com/dfelinto/virtual_reality_viewport) - Addon to bring virtual reality devices to the Blender viewport
+- [oculus_bge] (https://github.com/dfelinto/oculus_bge) - Blender Game Engine - Oculus
 - [BGE educational program and vr dk2, leap motion integration ] (https://blenderartists.org/forum/showthread.php?323478-Leap-Motion-and-blender-integration) - Making of Leap Motion für Python 3 (http://www.magben.de/?h1=3d&h2=leap_motion_hand)
 
 

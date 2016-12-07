@@ -123,8 +123,13 @@ A collection of blender and blender game engine resources
 ##Community
 *Blender official/unofficial forums*
 - [Blender Artists] (http://www.blenderartists.org/)
+- [BA Game engine] (https://blenderartists.org/forum/forumdisplay.php?34-Game-Engine)
 - [Blender Guru] (http://www.blenderguru.com/)
 - [BlenderNation] (http://www.blendernation.com)
+- [Blender IRC] (https://wiki.blender.org/index.php/Community:Chat)
+- [UPBGE IRC : #upbgecoders  and  #upbgeusers]
+- [https://upbge.org/] (https://upbge.org/)
+- [http://www.upbge.fr/] (http://www.upbge.fr/)
 
 
 ##Resources

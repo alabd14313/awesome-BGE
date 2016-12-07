@@ -47,6 +47,7 @@ A collection of blender and blender game engine resources
 - [Easy Game] (https://cgcookiemarkets.com/all-products/easy-game/) - a collection of tools that allow you to work faster and more efficiently with the Blender Game Engine
 - [BGE-MC] (https://cgcookiemarkets.com/all-products/blender-game-engine-material-creator-bge-mc/) - Blender Game Engine Material Creator
 - [Asset Sketcher] (https://cgcookiemarkets.com/all-products/asset-sketcher-blender-addon/) - An addon that lets you paint objects directly into your scene.
+- [BGE Sprite Addon] (https://blendermarket.com/products/bge-sprite-addon) - The BGE Sprite Addon lets you add real-time animated textures in the Blender Game Engine, replacing the old and inconsistent ‘UV animated texture' method with a better and more capable system.
 - [Area lamps] (https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
 - [Improved sapling tree generator] (https://github.com/abpy/improved-sapling-tree-generator) - A new version of Blenders sapling tree generator with improvements, new features, and bug fixes
 - [COA tools] (https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.

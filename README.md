@@ -137,8 +137,8 @@ A collection of blender and blender game engine resources
 *API, WIKI, Tutorials, 2D and 3D Models*
 - [Blender API] (https://www.blender.org/api/) - Blender/BGE Application Programming Interface (Python API)
 - [Blender Manual] (https://www.blender.org/manual/) - Blender Reference Manual
-- [UPBGE API] (https://pythonapi.upbge.fr/) - UPBGE python API
-- [UPBGE Documentation] (https://doc.upbge.fr/) - UPBGE documentation and release notes
+- [UPBGE API] (https://pythonapi.upbge.org/) - UPBGE python API
+- [UPBGE Documentation] (https://doc.upbge.org/) - UPBGE documentation and release notes
 - [Blender Wiki] (https://wiki.blender.org/) - Blender Wiki
 - [Blender game engine wiki] (https://wiki.blender.org/index.php/Dev:Source/GameEngine) - Blender game engine old wiki and scene graph
 - [TutorialsForBlender3d] (http://www.tutorialsforblender3d.com/) - Tuttorials for blender game engine
@@ -215,7 +215,7 @@ A collection of blender and blender game engine resources
 - [T23271] (https://developer.blender.org/T23271) - KX_JoystickSensor.connected stays True when I unplug the controller, and vise versa
 - [T23670] (https://developer.blender.org/T23670) - Something not updating with linked groups
 - [T23894] (https://developer.blender.org/T23894) - Mesh modifier in BGE is not used for culling calculation
-- [T24948] (https://developer.blender.org/T24948) - Modifiers make materials disappear in BGE (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.fr/releases.php?id=0.0.1)_**)
+- [T24948] (https://developer.blender.org/T24948) - Modifiers make materials disappear in BGE (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.org/releases.php?id=0.0.1)_**)
 - [T25537] (https://developer.blender.org/T25537) - Text object size is different in 3d view and BGE
 - [T26403] (https://developer.blender.org/T26403) - Material "Face Textures" option ignored in GLSL mode
 - [T27118] (https://developer.blender.org/T27118) - Non-repeating textures and decals not working
@@ -271,7 +271,7 @@ A collection of blender and blender game engine resources
 - [T36506] (https://developer.blender.org/T36506) - Game engine python, 'activate(actuator)' causes flickering armature when using trackto and constraints
 - [T36581] (https://developer.blender.org/T36581) - Texture flickering on objects with shape keys when armature in BGE mode
 - [T36779] (https://developer.blender.org/T36779) - BGE texture module: Camera texture will always fail when the scene is restarted.
-- [T37125] (https://developer.blender.org/T37125) - Moving UV coordinates on objects with shape keys fails (**_Solved in BGE and UPBGE [v0.0.2] (http://doc.upbge.fr/releases.php?id=0.0.2)_**)
+- [T37125] (https://developer.blender.org/T37125) - Moving UV coordinates on objects with shape keys fails (**_Solved in BGE and UPBGE [v0.0.2] (http://doc.upbge.org/releases.php?id=0.0.2)_**)
 - [T37412] (https://developer.blender.org/T37412) - libload progress
 - [T37514] (https://developer.blender.org/T37514) - Keyed animations slow in blenderplayer on OS X
 - [T37686] (https://developer.blender.org/T37686) - Soft body physics much slower in 2.69 compared to 2.68a
@@ -284,16 +284,16 @@ A collection of blender and blender game engine resources
 - [T39963] (https://developer.blender.org/T39963) - OBS causes blender to crash on closure ,
 - [T40086] (https://developer.blender.org/T40086) - Poor Support for Dynamic Number of Lights in GLSL Mode
 - [T40427] (https://developer.blender.org/T40427) - Compound mesh not updated with Outliner children
-- [T40475] (https://developer.blender.org/T40475) - BGE: Children objects not freed after python access. (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.fr/releases.php?id=0.0.1)_**)
+- [T40475] (https://developer.blender.org/T40475) - BGE: Children objects not freed after python access. (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.org/releases.php?id=0.0.1)_**)
 - [T40790] (https://developer.blender.org/T40790) - 2D Filters and anti-aliasing broke quad buffer stereo
-- [T40955] (https://developer.blender.org/T40955) - LibNew doesn't clone Physics Mesh (**_Solved in UPBGE [v0.0.6] (http://doc.upbge.fr/releases.php?id=0.0.6)_**)
+- [T40955] (https://developer.blender.org/T40955) - LibNew doesn't clone Physics Mesh (**_Solved in UPBGE [v0.0.6] (http://doc.upbge.org/releases.php?id=0.0.6)_**)
 - [T41181] (https://developer.blender.org/T41181) - Redesigning Input Controllers/Sensors
 - [T41182] (https://developer.blender.org/T41182) - SceneGraph Review
 - [T41184] (https://developer.blender.org/T41184) - SceneGraph and Transforms
 - [T41209] (https://developer.blender.org/T41209) - Run Armature actuator not working with DupliGroup object.
 - [T41520] (https://developer.blender.org/T41520) - BGE-optimized vertex deform method causes vertices to go smooth
 - [T41529] (https://developer.blender.org/T41529) - After pree P test game, pose library will turn red & lose if save .blend file.
-- [T41677] (https://developer.blender.org/T41677) - Skin modifier dont work with 0 face objects (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.fr/releases.php?id=0.0.1)_**)
+- [T41677] (https://developer.blender.org/T41677) - Skin modifier dont work with 0 face objects (**_Solved in UPBGE [v0.0.1] (http://doc.upbge.org/releases.php?id=0.0.1)_**)
 - [T41825] (https://developer.blender.org/T41825) - Effects in bge
 - [T41829] (https://developer.blender.org/T41829) - Normal Map in Material Node going wrong
 - [T41940] (https://developer.blender.org/T41940) - VideoTexture ImageRender does not consider 2D filter actives for the scene
@@ -315,7 +315,7 @@ A collection of blender and blender game engine resources
 - [T44032] (https://developer.blender.org/T44032) - Unusual cpu and gpu usage and stuttering in BGE
 - [T44328] (https://developer.blender.org/T44328) - Character motion actuator additive motion not working correct
 - [T44529] (https://developer.blender.org/T44529) - 2D Filter not running for entire screen when Viewport is used with Stereo
-- [T44557] (https://developer.blender.org/T44557) - BGE leaves references in memory after quitting (**_Solved in BGE [v0.0.7] (http://doc.upbge.fr/releases.php?id=0.0.7)_**)
+- [T44557] (https://developer.blender.org/T44557) - BGE leaves references in memory after quitting (**_Solved in BGE [v0.0.7] (http://doc.upbge.org/releases.php?id=0.0.7)_**)
 - [T44638] (https://developer.blender.org/T44638) - BGE Animation inconsistent with Blender render
 - [T45068] (https://developer.blender.org/T45068) - Scaled Capsule Collision Bounds do not match mesh
 - [T45367] (https://developer.blender.org/T45367) - Z-Transparency at alpha 1, it makes artifacts.
@@ -325,7 +325,7 @@ A collection of blender and blender game engine resources
 - [T45957] (https://developer.blender.org/T45957) - light.type appears to not do anything when set in engine
 - [T46122] (https://developer.blender.org/T46122) - Action Actuator - Flipper Mode Frame Glitches
 - [T46276] (https://developer.blender.org/T46276) - Multiple Track To bone constraint not working in BGE
-- [T46381] (https://developer.blender.org/T46381) - The animation is not played to the end (**_Solved in BGE and UPBGE [v0.0.2] (http://doc.upbge.fr/releases.php?id=0.0.2)_**)
+- [T46381] (https://developer.blender.org/T46381) - The animation is not played to the end (**_Solved in BGE and UPBGE [v0.0.2] (http://doc.upbge.org/releases.php?id=0.0.2)_**)
 - [T46394] (https://developer.blender.org/T46394) - bgelauncher embedded and standalone
 - [T46527] (https://developer.blender.org/T46527) - Transformation of child objects appears broken
 - [T46645] (https://developer.blender.org/T46645) - [BUG] BGE character physics steering
@@ -340,11 +340,11 @@ A collection of blender and blender game engine resources
 - [T47297] (https://developer.blender.org/T47297) - Compound parenting issues with spawned copies of root shape objects.
 - [T47330] (https://developer.blender.org/T47330) - Problem when 2 gamepads use in same time logitech (button dont work but axix work) logic editor
 - [T47616] (https://developer.blender.org/T47616) - BGE stereo SBS : (time of) rendering discrepency between eyes
-- [T46902] (https://developer.blender.org/T46902) - BGE:: Motion Actuator:: The code for Force apparently overwritten with code for LinV (**_Solved in BGE with [Fix T46902] (https://developer.blender.org/rB83c9109926677b6b6a75ccb36ae0017733e8c8a2) and in UPBGE [v0.0.1] (http://doc.upbge.fr/releases.php?id=0.0.1)_**)
+- [T46902] (https://developer.blender.org/T46902) - BGE:: Motion Actuator:: The code for Force apparently overwritten with code for LinV (**_Solved in BGE with [Fix T46902] (https://developer.blender.org/rB83c9109926677b6b6a75ccb36ae0017733e8c8a2) and in UPBGE [v0.0.1] (http://doc.upbge.org/releases.php?id=0.0.1)_**)
 - [T47908] (https://developer.blender.org/T47908) - Loop End action does not complete (behaves as Loop Stop)
 - [T47909] (https://developer.blender.org/T47909) - Significant animation overhead remains after stopping animation playback
 - [T47945] (https://developer.blender.org/T47945) - transformUV() and vertex.UV don't work on rigged objects
-- [T48099] (https://developer.blender.org/T48099) - Adress boundary error given bad input (**_Solved in UPBGE [v0.0.6] (http://doc.upbge.fr/releases.php?id=0.0.6)_**)
+- [T48099] (https://developer.blender.org/T48099) - Adress boundary error given bad input (**_Solved in UPBGE [v0.0.6] (http://doc.upbge.org/releases.php?id=0.0.6)_**)
 - [T48226] (https://developer.blender.org/T48226) - Armature-setParent-glitch-crash
 - [T48256] (https://developer.blender.org/T48256) - Shadows in Blender Game
 - [T48317] (https://developer.blender.org/T48317) - Blender Crashing in Game Engine

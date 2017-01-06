@@ -29,6 +29,8 @@ A collection of blender and blender game engine resources
 ##Addons
 *Some usefull addons for modeling, rendering and game making*
 - [BGECore] (https://github.com/elmeunick9/BGECore) - Framework for Blender Game Engine ([BA Link] (https://blenderartists.org/forum/showthread.php?383809-BGECore-Framework))
+- [UPBGE-CommunityAddon] (https://github.com/elmeunick9/UPBGE-CommunityAddon) - A framework for UPBGE ([BA link] (https://blenderartists.org/forum/showthread.php?413239-UPBGE-s-Community-Addon)) ([doc] (http://coredoc.royalwebhosting.net/))
+- [BGE-Master-Template] (https://github.com/lars-pfeffer/BGE-Master-Template) - Master template for BGE
 - [Compz] (https://github.com/DCubix/Compz) - Graphical user interface module for the Blender Game Engine based on BGUI and KXGUI
 - [BRIK game engine ragdolls kit] (https://blenderartists.org/forum/showthread.php?401694-BRIK-game-engine-ragdolls-kit) - Meta-Androcto
 - [MakeHuman] (www.makehuman.org) - Free and Open source tool for making 3d characters

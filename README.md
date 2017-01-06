@@ -32,6 +32,7 @@ A collection of blender and blender game engine resources
 - [Compz] (https://github.com/DCubix/Compz) - Graphical user interface module for the Blender Game Engine based on BGUI and KXGUI
 - [BRIK game engine ragdolls kit] (https://blenderartists.org/forum/showthread.php?401694-BRIK-game-engine-ragdolls-kit) - Meta-Androcto
 - [MakeHuman] (www.makehuman.org) - Free and Open source tool for making 3d characters
+- [Manuel Bastioni Lab] (http://www.manuelbastioni.com/) - 3D humanoids creation in blender ([BA link] (https://blenderartists.org/forum/showthread.php?391401-Addon-Manuel-Bastioni-Lab-turns-Blender-in-a-laboratory-for-3d-humanoids-creation))
 - [Animation nodes (AN)] (http://blenderartists.org/forum/showthread.php?350296-Addon-Animation-Nodes) - A node based visual scripting system designed for motion graphics in Blender
 - [BGE Logic nodes] (http://blenderartists.org/forum/showthread.php?388143-WIP-Blender-Plugin-BGE-Logic-nodes-Alpha) - BGE Logic Nodes (WIP) addon
 - [Blend4Web] (https://www.blend4web.com) - An open source framework for creating and displaying interactive 3D computer graphics and games in web browsers

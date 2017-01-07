@@ -187,6 +187,7 @@ A collection of blender and blender game engine resources
 - [Google Summer Of Code] (https://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2016/Ideas) - Here are disscustions: [Video1] (https://www.youtube.com/watch?v=3vlyT3UNmFs) - [Video2] (https://www.youtube.com/watch?v=M8Ot3xHBKnA)
 - [18 anticipated Blender development projects of 2015] (https://www.blender.org/press/18-anticipated-blender-development-projects-of-2015/)
 - [Top 22 developers 2015] (https://www.blender.org/development/top-22-developers-2015/)
+- [The top 30 Blender developers 2016] (https://www.blender.org/development/the-top-30-blender-developers-2016/)
 - [Gooseberry branch in blender master] (https://gooseberry.blender.org/gooseberry-in-blender-master/)
 - [Blender branches to watch in 2016] (https://www.blender.org/development/blender-branches-to-watch-in-2016/)
 - [Blender roadmap – 2.7, 2.8 and beyond] (https://code.blender.org/2013/06/blender-roadmap-2-7-2-8-and-beyond/)

@@ -1,4 +1,4 @@
-![Besmellah] (./Images/Besmellah.png)
+![Besmellah](./Images/Besmellah.png)
 # Awesome BGE
 A collection of blender and blender game engine resources
 

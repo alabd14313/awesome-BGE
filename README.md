@@ -1,9 +1,9 @@
 ![Besmellah] (./Images/Besmellah.png)
-#Awesome BGE
+# Awesome BGE
 A collection of blender and blender game engine resources
 
 
-##Builds
+## Builds
 *Blender builds for various branches*
 - [Builder] (https://builder.blender.org/download/) - Blender latest builds
 - [Builder experimental] (https://builder.blender.org/download/experimental/) - Blender latest experimental builds
@@ -19,14 +19,14 @@ A collection of blender and blender game engine resources
 - [TheBounty Renderer] (https://www.thebountyrenderer.org/) - A free montecarlo raytracing engine (a fork of YafaRay)
 
 
-##Science
+## Science
 *Softwares and frameworks that uses blender.*
 - [Morse] (http://morse-simulator.github.io) - The Modular OpenRobots Simulation Engine
 - [Hanson Robotics] (https://github.com/hansonrobotics/blender_api) - Eva Blender Animation API for ROS (Robot Operating System)
 - [Bioblender] (http://www.bioblender.eu/) - Addon for Blender to do molecular work
 
 
-##Addons
+## Addons
 *Some usefull addons for modeling, rendering and game making*
 - [BGECore] (https://github.com/elmeunick9/BGECore) - Framework for Blender Game Engine ([BA Link] (https://blenderartists.org/forum/showthread.php?383809-BGECore-Framework))
 - [UPBGE-CommunityAddon] (https://github.com/elmeunick9/UPBGE-CommunityAddon) - A framework for UPBGE ([BA link] (https://blenderartists.org/forum/showthread.php?413239-UPBGE-s-Community-Addon)) ([doc] (http://coredoc.royalwebhosting.net/))
@@ -68,14 +68,14 @@ A collection of blender and blender game engine resources
 - [Blender Add-ons Catalog] (https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts) - Some blender official addons
 
 
-##Math and Creativity
+## Math and Creativity
 *Some works with math and blender*
 - [Sverchok parametric tools] (https://github.com/nortikin/sverchok) - Vector work drawing and 3D constructing
 - [elfnor] (http://elfnor.com/) - Art and Math in blender
 - [Examples] (http://blendersushi.blogspot.com/2014/04/sverchok-embracing-art-of-parametric.html) - Some examples of Sverchok tools
 
 
-##Virtual Reality
+## Virtual Reality
 *Branches and addons for VR, openHMD, OSVR, VRPN*
 - [BlenderVR] (https://blendervr.limsi.fr/doku.php) - Blender add-on for Virtual Reality
 - [Virtual Reality Viewport] (https://github.com/dfelinto/virtual_reality_viewport) - Addon to bring virtual reality devices to the Blender viewport
@@ -83,7 +83,7 @@ A collection of blender and blender game engine resources
 - [BGE educational program and vr dk2, leap motion integration ] (https://blenderartists.org/forum/showthread.php?323478-Leap-Motion-and-blender-integration) - Making of Leap Motion für Python 3 (http://www.magben.de/?h1=3d&h2=leap_motion_hand)
 
 
-##Shaders
+## Shaders
 *GLSL shaders for BGE*
 - [BGE Post-Processing Addon] (http://blenderartists.org/forum/showthread.php?398032-BGE-Post-Processing-Addon) - Thatimst3r
 - [Compute Shader using OpenGL Wrapper (bgl) and Python OpenGL Wrapper] (http://blenderartists.org/forum/showthread.php?373056-Compute-Shader-using-OpenGL-Wrapper-(bgl)-and-Python-OpenGL-Wrapper) - HG1
@@ -124,7 +124,7 @@ A collection of blender and blender game engine resources
 - [Some other shaders] (https://blenderartists.org/forum/showthread.php?395974-Sdfgeoff-s-node-shaders-and-other-experiments) - Sdfgeoff's node shaders and other experiments
 
 
-##Community
+## Community
 *Blender official/unofficial forums*
 - [Blender Artists] (http://www.blenderartists.org/)
 - [BA Game engine] (https://blenderartists.org/forum/forumdisplay.php?34-Game-Engine)
@@ -136,7 +136,7 @@ A collection of blender and blender game engine resources
 - [http://www.upbge.fr/] (http://www.upbge.fr/)
 
 
-##Resources
+## Resources
 *API, WIKI, Tutorials, 2D and 3D Models*
 - [Blender API] (https://www.blender.org/api/) - Blender/BGE Application Programming Interface (Python API)
 - [Blender Manual] (https://www.blender.org/manual/) - Blender Reference Manual
@@ -158,7 +158,7 @@ A collection of blender and blender game engine resources
 - [Agoose77's resources] (http://blenderartists.org/forum/showthread.php?226477-Agoose77-s-resources&p=1913771#post1913771) - Agoose77's resources
 
 
-##Video tutorials
+## Video tutorials
 *Artists who have video tutorials*
 - [Adrians Netlis] (https://www.youtube.com/channel/UCGZ0NXhdCgsfv6UllRrQsFQ)
 - [Arsenal RSL] (https://www.youtube.com/channel/UC8fEnP9462piEg4xa3xNHOA)
@@ -178,7 +178,7 @@ A collection of blender and blender game engine resources
 - [Wayward Art Company] (https://www.youtube.com/channel/UC524_NOif1p3YPC39UAbF1A)
 
 
-##Blender development
+## Blender development
 *Some links for blender development*
 - [Blender development] (https://developer.blender.org/) - Blender commits and bugs
 - [Development fund] (https://www.blender.org/foundation/development-fund/)
@@ -195,7 +195,7 @@ A collection of blender and blender game engine resources
 - [The bright future] (https://blenderartists.org/forum/showthread.php?389374-The-bright-future) - The bright future for blender and for creativity
 
 
-##Books
+## Books
 *Some books about Blender/BGE*
 - [Blender 3D: Noobs to Pro] (https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
 - [Blender Game Engine: Beginner’s Guide] (https://www.packtpub.com/game-development/blender-game-engine-beginner%E2%80%99s-guide) - Kuller Bacone Victor
@@ -203,7 +203,7 @@ A collection of blender and blender game engine resources
 - [Create your own 3D Games with Blender Game Engine] (http://www.graziel.com/livres/16-create-your-own-3d-games-with-blender-game-engine-9791093846019.html) - Gossellin De Bénicourt Grégory
 - [GLSL programming in Blender] (https://en.wikibooks.org/wiki/GLSL_Programming/Blender) - A wikibook about glsl programming in blender 2.63
 
-##BGE bugs
+## BGE bugs
 *Current BGE bugs and bugs that solved in UPBGE*
 - [T4096] (https://developer.blender.org/T4096) - keysensors/mousesensors - missed input with lower framerate
 - [T17869] (https://developer.blender.org/T17869) - Geometry Node Material doesn't work properly with shared mesh in BGE

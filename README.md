@@ -140,6 +140,7 @@ A collection of blender and blender game engine resources
 
 ## Resources
 *API, WIKI, Tutorials, 2D and 3D Models*
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Blender API](https://www.blender.org/api/) - Blender/BGE Application Programming Interface (Python API)
 - [Blender Manual](https://www.blender.org/manual/) - Blender Reference Manual
 - [UPBGE API](https://pythonapi.upbge.org/) - UPBGE python API

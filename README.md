@@ -49,6 +49,7 @@ A collection of blender and blender game engine resources
 - [BlenderGEResourceKit](https://github.com/mikepan/BlenderGEResourceKit) - A collection of ready-to-use components for the Blender Game Engine
 - [Easy Game](https://cgcookiemarkets.com/all-products/easy-game/) - a collection of tools that allow you to work faster and more efficiently with the Blender Game Engine
 - [BGE-MC](https://cgcookiemarkets.com/all-products/blender-game-engine-material-creator-bge-mc/) - Blender Game Engine Material Creator
+- [super-texture](https://blendermarket.com/products/super-texture) - A one-click addon for generating multiple PBR maps from a single image.
 - [Asset Sketcher](https://cgcookiemarkets.com/all-products/asset-sketcher-blender-addon/) - An addon that lets you paint objects directly into your scene.
 - [BGE Sprite Addon](https://blendermarket.com/products/bge-sprite-addon) - The BGE Sprite Addon lets you add real-time animated textures in the Blender Game Engine, replacing the old and inconsistent ‘UV animated texture' method with a better and more capable system.
 - [Area lamps](https://github.com/martinsh/area-lamps) - Blender with real-time rectangular area lamps
